@@ -2,7 +2,7 @@
 
 
 
-# 👋 hi , i'm orphetus maybe a octopus too
+# 👋 hi , i'm orphetus , maybe a octopus too
 
 ## 🌐 contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orphetus@gmail.com) 
